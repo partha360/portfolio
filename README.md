@@ -1,4 +1,4 @@
-# portfolio
+# Partha Portfolio
 Portfolio page - Partha's version
 
 Single responsive page with beautiful animations (all through CSS).
